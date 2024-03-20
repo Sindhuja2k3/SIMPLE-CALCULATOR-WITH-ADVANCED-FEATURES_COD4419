@@ -16,7 +16,7 @@ Below is the code explanation.
 
 **Code Explanation:**
 
-___import java.awt.*;___
+*import java.awt.*;*
 It is imported to use the classes and interfaces present in java.awt package
 
 *Frame* class is used to provide interface to calculator.
@@ -25,42 +25,29 @@ It is imported to use the classes and interfaces present in java.awt package
 
 *WindowListener* is used to handle the window events
 
----
-Button b= new Button();
----
+*Button b= new Button();*
 above creates a button
 button generates action event
 
----
-TextField t=new TextField(size);
----
+*TextField t=new TextField(size);*
 above creates a textfield to enter something 
 
----
-e.setBounds( , , , ); 
----
+*e.setBounds( , , , );*
 used to set the boundaries of elements in awt
 
----
-setLayout(); 
-setBackground();
----
+*setLayout(); 
+setBackground();*
+
 used to set layout and background 
 
----
-System.exit(0);
----
+*System.exit(0);*
 Used to exit from program 
 
----
-setText()
-getText()
----
+*setText()
+getText()*
 used to set and get the text in textfield
 
----       
-Integer.parseInt(string)
----
+*Integer.parseInt(string)*
 used to convert string into integer
               
 **Functionality:**
