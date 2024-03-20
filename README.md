@@ -16,9 +16,7 @@ Below is the code explanation.
 
 **Code Explanation:**
 
-'''
-import java.awt.*;
-'''
+___import java.awt.*;___
 It is imported to use the classes and interfaces present in java.awt package
 
 *Frame* class is used to provide interface to calculator.
