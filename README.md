@@ -7,16 +7,16 @@ Welcome to the documentation for the Simple Calculator project developed as part
 Name: Alle Sindhuja
 Intern ID: COD441 
 
-**Problem Statement**
+**Problem Statement:**
 The goal of this project is to create a simple calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The application should have a user-friendly interface and should be implemented in Java programming language.
  
-**Design and Implementation** 
+**Design and Implementation:** 
 Implementation of this task involves utilising advanced java programming.
 Below is the code explanation.
 
-**Code Explanation**
+**Code Explanation:**
 
----
+---java
 import java.awt.*;
 ---
 It is imported to use the classes and interfaces present in java.awt package
@@ -65,7 +65,7 @@ Integer.parseInt(string)
 ---
 used to convert string into integer
               
-**Functionality**
+**Functionality:**
 The calculator supports the following functionalities:
 
 Addition +
@@ -77,7 +77,7 @@ Exponentiation ^
 Clear clr
 Unary minus (-)
  
-**Testing**
+**Testing:**
 Addition of two positive and negative numbers
 Subtraction of two positive and negative numbers
 Multiplication of two positive and negative numbers
@@ -86,5 +86,5 @@ Modulo of two positive and negative numbers
 Clear button functionality
 The tests are conducted to ensure that the calculator performs the operations correctly and handles edge cases appropriately.
 
-**Conclusion**
+**Conclusion:**
 In conclusion, the task assigned to me during CodTech IT Solutions internship program involved developing a simple calculator.The implemented solution successfully accomplishes this task.This documentation provides insights into the implementation details, code explanation, functionality, etc. I had completed this task as a part of the internship program.
